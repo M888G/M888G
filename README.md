@@ -3,14 +3,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=m888g&label=Profile%20views&color=0e75b6&style=flat" alt="m888g" /> </p>
 
-<div align="center">- 🔭 I’m currently working on **CSUN AERO DRONE**</div>
+<div align="center">- 🔭 I’m currently working on CSUN AERO DRONE</div>
 
-<div align="center">- 🌱 I’m currently learning **Electrical Engineering**</div>
+<div align="center">- 🌱 I’m currently learning Electrical Engineering</div>
 
-<div align="center">- 💬 Ask me about **My Steam & Maritime Experience**</div>
+<div align="center">- 💬 Ask me about My Steam & Maritime Experience</div>
 
-<div align="center">- 📫 How to reach me **M888Gordon@gmail.com** </div>
- **M888Gordon@gmail.com**
+<div align="center">- 📫 How to reach me <a href="mailto:M888Gordon@gmail.com">M888Gordon@gmail.com</a> </div>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/matthew-gordon-b3a515128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew-gordon-b3a515128" height="30" width="40" /></a>
