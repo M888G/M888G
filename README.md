@@ -10,7 +10,7 @@
 <div align="center">- 💬 Ask me about **My Steam & Maritime Experience**</div>
 
 <div align="center">- 📫 How to reach me **M888Gordon@gmail.com** </div>
-
+ **M888Gordon@gmail.com*
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/matthew-gordon-b3a515128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew-gordon-b3a515128" height="30" width="40" /></a>
