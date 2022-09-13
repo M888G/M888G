@@ -3,13 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=m888g&label=Profile%20views&color=0e75b6&style=flat" alt="m888g" /> </p>
 
-- 🔭 I’m currently working on **CSUN AERO DRONE**
+<p align="center">- 🔭 I’m currently working on **CSUN AERO DRONE**
 
 - 🌱 I’m currently learning **Electrical Engineering**
 
 - 💬 Ask me about **My Steam & Maritime Experience**
 
-- 📫 How to reach me **M888Gordon@gmail.com**
+- 📫 How to reach me **M888Gordon@gmail.com** </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
