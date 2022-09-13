@@ -9,7 +9,7 @@
 
 <p align="center">- 💬 Ask me about **My Steam & Maritime Experience**</p>
 
-<p align="center">- 📫 How to reach me **M888Gordon@gmail.com** </p>
+<p align="center">- 📫 How to reach me **M888Gordon@gmail.com**, </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
